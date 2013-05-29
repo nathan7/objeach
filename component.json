@@ -1,0 +1,17 @@
+{
+  "name": "objeach",
+  "repo": "nathan7/objeach",
+  "description": "iterate over objects",
+  "version": "1.0.0",
+  "keywords": [
+    "object",
+    "utility"
+  ],
+  "dependencies": {
+    "component/object": "*"
+  },
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}
